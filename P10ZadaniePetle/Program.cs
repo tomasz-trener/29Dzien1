@@ -21,10 +21,10 @@ namespace P10ZadaniePetle
 
             int i = 0;
             int licznik = 0;
-
+            string podciag;
             while (i <= zdanie.Length - wyraz.Length)
             {
-                string podciag = zdanie.Substring(i, wyraz.Length);
+                podciag = zdanie.Substring(i, wyraz.Length);
                 if(podciag == wyraz)
                     licznik++;
                 i++;
