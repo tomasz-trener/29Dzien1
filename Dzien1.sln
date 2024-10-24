@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12ZadaniePetle", "P12Zadan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13ZadanieKakulatorBMI", "P13ZadanieKakulatorBMI\P13ZadanieKakulatorBMI.csproj", "{B78F27A0-265B-4097-B3E8-2D840410F279}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14ZadanieZgadywanka", "P14ZadanieZgadywanka\P14ZadanieZgadywanka.csproj", "{FAC05DDC-8D5D-41D9-A3B2-E2092F689E8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{B78F27A0-265B-4097-B3E8-2D840410F279}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B78F27A0-265B-4097-B3E8-2D840410F279}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B78F27A0-265B-4097-B3E8-2D840410F279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC05DDC-8D5D-41D9-A3B2-E2092F689E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC05DDC-8D5D-41D9-A3B2-E2092F689E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC05DDC-8D5D-41D9-A3B2-E2092F689E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC05DDC-8D5D-41D9-A3B2-E2092F689E8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
