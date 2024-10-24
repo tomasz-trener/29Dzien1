@@ -46,9 +46,7 @@ namespace P09Petle
 
                 i++;
             }
-
-            string napis = "ala ma kota";
-            char znak = 'n';
+ 
         }
     }
 }
