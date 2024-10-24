@@ -1,0 +1,27 @@
+Napisz program, który 
+
+Prosi o wprowadzenie wagi (w kilogramach) i wzrostu (w centymetrach).
+Oblicza wskaŸnik BMI (Body Mass Index) wed³ug wzoru
+
+typ nieca³kowity to: double
+
+BMI=waga/wzrost^2 (waga w kg a wzrost w metrach )
+Wyœwietla wynik wraz z informacj¹, czy BMI wskazuje na niedowagê, prawid³ow¹ wagê, nadwagê, czy oty³oœæ.
+
+Niedowaga:
+    BMI poni¿ej 18.5
+
+Norma (prawid³owa waga):
+    BMI od 18.5 do 24.9
+
+Nadwaga:
+    BMI od 25 do 29.9
+
+Oty³oœæ I stopnia:
+    BMI od 30 do 34.9
+
+Oty³oœæ II stopnia (kliniczna):
+    BMI od 35 do 39.9
+
+Oty³oœæ III stopnia (ekstremalna):
+    BMI 40 lub wiêcej
